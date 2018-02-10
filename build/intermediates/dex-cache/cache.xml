@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyReadWriteFile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="819169ea398e135e486478ebb02f6a54c0318430">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyReadWriteFile/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_169a4fca208b17ade268360268f48005fc6b8e27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyReadWriteFile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyReadWriteFile/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3c86d79fefe617bd8a52d73f138d4d2ee3255f61/classes.dex" />
+    </item>
+
+</items>
